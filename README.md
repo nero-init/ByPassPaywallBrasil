@@ -10,7 +10,7 @@
 2. Vá até **Filtros de Conteúdo** > **Filtros Personalizados**.
 3. Clique em **Adicionar filtro**.
 4. Dê um nome como: `Anti-Paywall BR`.
-5. Cole este link (se estiver disponível via raw do GitHub, por exemplo):
+5. Cole a lista:
    ```
    https://raw.githubusercontent.com/seu-usuario/seu-repo/main/antipaywall.txt
    ```
