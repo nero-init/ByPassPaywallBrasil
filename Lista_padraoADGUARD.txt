@@ -1,0 +1,47 @@
+# Lista de sites brasileiros para bloqueio de paywall - Filtragem personalizada do AdGuard
+# 
+# Aviso legal:
+# Esta lista é destinada exclusivamente para uso educacional e pessoal, aplicada em rede local.
+# Não há qualquer redistribuição, reprodução comercial ou disponibilização pública dos conteúdos acessados.
+# O uso se restringe à filtragem de scripts em navegadores do próprio usuário, sem violar direitos autorais ou contratos de uso comercial dos sites listados.
+
+||uol.com.br^$cookie
+||folha.uol.com.br/paywall/js/^
+||paywall.folha.uol.com.br^
+||tinypass.com^
+||matheranalytics.com^
+||ampproject.org/v*/amp-subscriptions-*.js
+||globo.com^$cookie
+||tinypass.com^
+||ampproject.org/v*/amp-subscriptions-*.js
+||revistaoeste.com^$cookie
+||revistaoeste.com/revista/^
+||revistaoeste.com/wp-content/.+/js/app.+.js
+||estadao.com.br^$cookie
+||estadao.com.br/paywall/^
+||estadao.com.br/access.js
+||ampproject.org/v0/amp-(access|subscriptions)-.*.js
+||nsctotal.com.br^$cookie
+||nsctotal.com.br/wp-content/themes/nsctotal/js/paywall.js
+||diplomatique.org.br^$cookie
+||diplomatique.org.br^$cs_dompurify
+||abril.com.br^$cookie
+||abril.com.br/.+/abril-paywall/
+||gazetadopovo.com.br^$cookie
+||tinypass.com^
+||cxense.com^
+||ampproject.org/v0/amp-subscriptions-*.js
+||gauchazh.clicrbs.com.br^$cookie
+||piano.io^
+||exame.com^$cookie
+||abcmais.com^$cookie
+||ampproject.org/v0/amp-(access|subscriptions)-.*.js
+||abcmais.com^$cs_dompurify
+||cartacapital.com.br^$cookie
+||correiodopovo.com.br^$cookie
+||correiodopovo.com.br/paywall/^
+||correiodopovo.com.br/ampproject.org/v0/amp-access-.+.js
+||crusoe.com.br^$cookie
+||crusoe.com.br^$cs_dompurify
+||em.com.br^$cookie
+||ampproject.org/v0/amp-subscriptions-*.js
