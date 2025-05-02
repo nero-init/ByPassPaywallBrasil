@@ -12,7 +12,7 @@
 4. Dê um nome como: `Anti-Paywall BR`.
 5. Cole a lista:
    ```
-   https://raw.githubusercontent.com/seu-usuario/seu-repo/main/antipaywall.txt
+   https://raw.githubusercontent.com/nero-init/ByPassPaywallBrasil/refs/heads/main/Lista_padraoADGUARD.txt
    ```
    > Você também pode copiar o conteúdo manualmente e colar no editor interno do AdGuard.
 
