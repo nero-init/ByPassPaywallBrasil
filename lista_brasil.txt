@@ -1,0 +1,83 @@
+"UOL.com.br": {
+domain: "uol.com.br",
+allow_cookies: 1,
+block_regex: /(paywall\.folha\.uol\.com\.br\/|\.(tinypass|matheranalytics)\.com\/|\.ampproject\.org\/v0\/amp-subscriptions-.+\.js)/,
+useragent: "googlebot"
+},
+"O Globo (& Valor Econômico)": {
+domain: "globo.com",
+allow_cookies: 1,
+block_regex: /(\.tinypass\.com\/|\.ampproject\.org\/v0\/amp-subscriptions-.+\.js)/
+},
+"Revista Oeste": {
+domain: "revistaoeste.com",
+allow_cookies: 1,
+block_js_inline: /\/revistaoeste\.com\/revista\//,
+block_regex: /\/revistaoeste\.com\/wp-content\/.+\/js\/app\..+\.js/
+},
+
+"O Estado de S. Paulo": {
+domain: "estadao.com.br",
+allow_cookies: 1,
+block_regex: /(\.estadao\.com\.br\/(paywall\/|access\.js)|\.ampproject\.org\/v0\/amp-(access|subscriptions)-.+\.js)/
+},
+"O Globo (& Valor Econômico)": {
+domain: "globo.com",
+allow_cookies: 1,
+block_regex: /(\.tinypass\.com\/|\.ampproject\.org\/v0\/amp-subscriptions-.+\.js)/
+},
+
+"NSC Total": {
+domain: "nsctotal.com.br",
+allow_cookies: 1,
+block_regex: /\.nsctotal\.com\.br\/wp-content\/themes\/nsctotal\/js\/paywall\.js/
+},
+"Le Monde Diplomatique Brasil": {
+domain: "diplomatique.org.br",
+allow_cookies: 1,
+cs_dompurify: 1
+},
+"Grupo Abril": {
+domain: "abril.com.br",
+allow_cookies: 1,
+block_regex: /\.abril\.com\.br\/.+\/abril-paywall\//
+},
+"Gazeta do Povo": {
+domain: "gazetadopovo.com.br",
+allow_cookies: 1,
+block_regex: /(\.tinypass\.com\/|\.cxense\.com\/|\.ampproject\.org\/v0\/amp-subscriptions-.+\.js)/
+},
+"GaúchaZH": {
+domain: "gauchazh.clicrbs.com.br",
+allow_cookies: 1,
+block_regex: /\.piano\.io\//
+},
+"Exame": {
+domain: "exame.com",
+allow_cookies: 1
+},
+"Abcmais.com": {
+domain: "abcmais.com",
+allow_cookies: 1,
+block_regex: /(\.ampproject\.org\/v0\/amp-(access|subscriptions)-.+\.js)/,
+cs_dompurify: 1
+},
+"CartaCapital": {
+domain: "cartacapital.com.br",
+allow_cookies: 1
+},
+"Correio do Povo": {
+domain: "correiodopovo.com.br",
+allow_cookies: 1,
+block_regex: /(paywall\.correiodopovo\.com\.br|\.ampproject\.org\/v0\/amp-access-.+\.js)/
+},
+"Crusoe.com.br": {
+domain: "crusoe.com.br",
+allow_cookies: 1,
+cs_dompurify: 1
+},
+"Estado de Minas": {
+domain: "em.com.br",
+allow_cookies: 1,
+block_regex: /\.ampproject\.org\/v0\/amp-subscriptions-.+\.js/
+},
